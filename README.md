@@ -1,0 +1,1 @@
+This program allows users to modify the values of keys in the appSettings section of an app.config or web.config XML file. It prompts the user for a file name, a key name, and the new value they want to assign to the specified key.
